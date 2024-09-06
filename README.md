@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science, Machine Learning, Python, ...
 - 🌱 I’m currently learning Data science and mathematics
 - 💞️ I’m looking to collaborate on all kind of fun stuff
-- 📫 How to reach me @a01659147.tec.mx
+- 📫 How to reach me a01659147@tec.mx
 - ⚡ Fun fact: I wan to learn
 
 <!---
