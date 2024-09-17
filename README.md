@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data science and mathematics
 - 💞️ I’m looking to collaborate on all kind of fun stuff
 - 📫 How to reach me a01659147@tec.mx
-- ⚡ Fun fact: I wan to learn
+- ⚡ Fun fact: I want to learn
 
 <!---
 alan1x/alan1x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
